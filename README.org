@@ -536,4 +536,5 @@ rescue world
 
 -------------
 
-S.H.I.E.L.D./Ancient National Defense Agency
+S.H.I.E.L.D./Ancient National Defense Agency /
+国安部/古代国安部
